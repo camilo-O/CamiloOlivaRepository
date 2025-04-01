@@ -1,0 +1,25 @@
+{
+  "name": "camiloolivarepository",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/camilo-O/CamiloOlivaRepository#readme",
+  "bugs": {
+    "url": "https://github.com/camilo-O/CamiloOlivaRepository/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilo-O/CamiloOlivaRepository.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.9"
+  }
+}
